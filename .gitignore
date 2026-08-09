@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environment
+backend/venv/
+venv/
+.env
+.env.*
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local model files
+model/doctor_pocket_qwen25_1_5b_lora/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
