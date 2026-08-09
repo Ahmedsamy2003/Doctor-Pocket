@@ -478,22 +478,6 @@ The interface includes:
 
 ---
 
-# 🎥 Demo
-
-## Doctor Pocket Demo
-
-A complete demonstration of the Doctor Pocket application is available here:
-
-**[▶️ Watch the Doctor Pocket Demo](YOUR_DEMO_VIDEO_LINK)**
-
-## Chat Demonstration
-
-A separate demonstration showing the medical question-answering interaction is available here:
-
-**[▶️ Watch the Doctor Pocket Chat Demo](YOUR_CHAT_VIDEO_LINK)**
-
----
-
 # 📁 Project Structure
 
 ```text
