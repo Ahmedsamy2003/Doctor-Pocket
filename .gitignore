@@ -32,3 +32,6 @@ model/doctor_pocket_qwen25_1_5b_lora/
 # Temporary files
 *.tmp
 *.temp
+
+# Local testing
+backend/test_model.py
